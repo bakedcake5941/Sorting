@@ -1,3 +1,4 @@
 # Sorting
 Cringe,
-I have made this to show that I am competent :moyai:
+Currently it contains:
+Bubble sorting(https://en.wikipedia.org/wiki/Bubble_sort) - N(o*o)
