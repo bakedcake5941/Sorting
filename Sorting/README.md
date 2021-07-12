@@ -1,0 +1,5 @@
+# Sorting
+Cringe,
+Currently it contains:
+*[Bubble sorting](https://en.wikipedia.org/wiki/Bubble_sort) - N(o*o)
+*[Insertion sorting](https://en.wikipedia.org/wiki/Insertion_sort) - N(o*o)
